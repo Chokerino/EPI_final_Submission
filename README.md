@@ -1,5 +1,5 @@
 # Data Science in Epidemiology (Gatech)
-### CSE 8803 Term paper and project.
+### Study of inter-regional relations of various disease symptom search trends - CSE 8803 Term paper and project.
 
 Authors: Anshuman S, Arvind B, Bhavay A.
 Affilation: Georgia Institute of Technology, Atlanta. 
